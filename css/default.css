@@ -624,6 +624,10 @@ e. Others
      float: none;
      margin: 0 auto;
  }
+
+ .remove-padding {
+   padding: 0 !important;
+}
  
  /* removed gutters */
  .row.collapsed > .column,

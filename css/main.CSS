@@ -331,6 +331,15 @@ header {
     margin-top: 6px;
     background: #444;
 }
+#projects .download {
+    width: 58.33333%;
+    padding-top: 6px;
+}
+#projects .download .button {
+    margin-top: 6px;
+    background: #444;
+    color: #fff;
+}
 #about a, #about a:visited {
     color: #fff;
 }
